@@ -27,7 +27,7 @@
     }
 
     main .content .content-image {
-        order: -1;
+        order: 0;
     }
 }
 
